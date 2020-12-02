@@ -8,7 +8,7 @@ import java.sql.SQLException;
 /**
  * 使用新的工具类
  */
-public class DruidDemo2 {
+public class DruidDemo {
 
     public static void main(String[] args) {
         Connection conn = null;
